@@ -11,7 +11,14 @@ body {
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
+  color: blue;
+  background-color: lightgray;
+  background: linear-gradient(to right,red,yellow);
 }
+h1 {
+  font-size: 2em;
+}
+
 
 .wrapper {
   margin: 0 auto;
